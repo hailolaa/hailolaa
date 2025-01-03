@@ -2,7 +2,7 @@
 
 Hi there, I'm Hailemichael Molla 👋
 
-I'm a passionate **Web Developer** with experience in **Frontend** and **Backend** technologies. I love to solve problems, work on interesting projects, and contribute to open-source.
+I'm a passionate **Web Developer** currently focusing on **web-development** and **Data Structures and Algorithm**
 
 ### 👨‍💻 Technologies & Tools
 - Languages: JavaScript, Java, Python, HTML, CSS
