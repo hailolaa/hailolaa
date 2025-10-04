@@ -42,7 +42,7 @@
 ### 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-link/)  
-✉️ Email: hailolaa2030@gmail.com@email.com *(if you want it public)*
+✉️ Email: hailolaa2030@gmail.com *(if you want it public)*
 
 ---
 
