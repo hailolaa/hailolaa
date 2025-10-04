@@ -39,20 +39,10 @@
 
 ---
 
-### 📂 Featured Projects
-
-> *(Add these based on your strongest or favorite repos)*
-
-- **[Project A](#)** – A full-stack app built with React & Node.js  
-- **[Project B](#)** – A Flutter mobile app for X purpose  
-- **[Project C](#)** – A fun mini project using HTML/CSS/JavaScript  
-
----
-
 ### 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-link/)  
-✉️ Email: your@email.com *(if you want it public)*
+✉️ Email: hailolaa2030@gmail.com@email.com *(if you want it public)*
 
 ---
 
