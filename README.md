@@ -1,4 +1,4 @@
-## Hi there 👋 I’m Hailemichael (aka hailolaa)
+## Hi there 👋 I’m Hailemichael
 
 🎓 3rd‑year Software Engineering student based in Addis Ababa.  
 🛠️ I build **web and mobile apps** using modern tools like React, Node.js, and Flutter.
